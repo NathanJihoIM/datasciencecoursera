@@ -3,6 +3,6 @@
 Normal Text
 * 1st Asterisk
 * 2nd 
-* 3rd *
+** 3rd *
 
-How can I go back to normal text?
+If you want to go back to normal text, add a blank row.
