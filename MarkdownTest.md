@@ -1,5 +1,5 @@
-## This is a Test ==> Double #
-### Another Test ==> Tripple #
+## This is a Test ==> Double Pound
+### Another Test ==> Tripple Pound
 Normal Text
 * 1st Asterisk
 * 2nd 
