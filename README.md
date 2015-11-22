@@ -1,2 +1,2 @@
 # datasciencecoursera
-for Coursera CourseProject
+for Coursera Course Project
