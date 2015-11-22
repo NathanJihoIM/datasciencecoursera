@@ -1,6 +1,7 @@
 ## This is a Test ==> Double #
 ### Another Test ==> Tripple #
+Normal Text
 * 1st Asterisk
 * 2nd 
 * 3rd *
-normal text
+How can I go back to normal text?
