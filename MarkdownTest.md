@@ -2,5 +2,5 @@
 ### Another Test ==> Tripple #
 * 1st Asterisk
 * 2nd 
-* 3rd
+* 3rd *
 normal text
